@@ -11,6 +11,7 @@
 
 - Módulo HTTP Rocketseat: https://biblioteca.rocketseat.com.br/http/http/abertura-1
 - Desvendando Requisições HTTP: Métodos, Parâmetros, Body e Status Codes para Devs: https://www.youtube.com/watch?v=bMmdksBHyXc
+- Aprenda Domínios, DNS e HTTP: Tutorial Completo na AWS com Route 53, ACM, CloudFront: https://www.youtube.com/watch?v=Os1AJhS2qvk
 - https://docs.loylegal.com/home/documentacao-da-api-loy
 - https://github.com/typicode/json-server
 - https://docs.github.com/en/rest
