@@ -1,0 +1,19 @@
+{
+  "name": "basic-example",
+  "version": "1.0.0",
+  "main": "main.js",
+   "type": "module",
+  "scripts": {
+    "dev": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "puppeteer": "^24.32.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.57.0"
+  }
+}
