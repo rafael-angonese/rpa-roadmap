@@ -54,3 +54,11 @@
 - Locators (API principal de seleção)
 
 - Screenshots
+
+# Sites
+
+- https://www.saucedemo.com/
+- https://demoqa.com/
+- https://automationexercise.com/test_cases
+- https://the-internet.herokuapp.com/
+- https://practice-automation.com/
